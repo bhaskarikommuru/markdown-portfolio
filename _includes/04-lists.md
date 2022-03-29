@@ -1,5 +1,5 @@
-*Emoji
-*Ordered Lists
-*Unordered Lists
-bie
-*hello
+- Emoji
+- Ordered Lists
+- Unordered Lists
+- bie
+- hello
